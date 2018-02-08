@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NumberShapes</string>
+    <string name="title">Number Shapes</string>
+    <string name="get_shape">Get the shape of your number !</string>
+    <string name="instruction">Enter a whole number below to see whether it is a Square Number, Triangular Number or both !</string>
 </resources>
